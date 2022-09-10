@@ -9,8 +9,8 @@ Merge Sort Projesi Cevap
 
 Yukarıdaki dizinin merge sort türüne göre aşamalarını yazınız.
 
-Cevap:
-![mergesort](https://user-images.githubusercontent.com/93899998/189490202-7c128469-affe-45c6-8df0-19f002dde00c.png)
+![merge](https://user-images.githubusercontent.com/93899998/189490666-0898788d-03dc-40ad-880f-e88db434bf3b.PNG)
+
 
 
 
