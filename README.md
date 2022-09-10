@@ -16,4 +16,4 @@ Yukarıdaki dizinin merge sort türüne göre aşamalarını yazınız.
 
 Big-O gösterimini yazınız.
 
-Cevap: n tane sayı içeren bir sayı dizisi olduğunu kabul edelim. Bu n sayı içeren dizinin merge sort için best, average ve worst case durumları aynıdır. Merge sort için time comlexity O($n.log(n)$)'dir.
+Cevap: Recursive(özyinelemeli) bir fonks. olduğu için tekrarlı bir şekilde kendini çağırarak diziyi hep ikiye bölmektedir. Her bölünmüş dizinin Merge işlemi için de dizinin uzunluğu olan n işlem yapıldığından O(n*(logn)) --> O(6*(log6)) olacaktır.
